@@ -6,5 +6,5 @@
 
 ## Xor
 
-<img src="./screenshot (160).png" />
+<img src="./Screenshot (160).png" />
 
